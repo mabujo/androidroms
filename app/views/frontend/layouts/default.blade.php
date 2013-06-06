@@ -6,7 +6,7 @@
 		<meta charset="utf-8" />
 		<title>
 			@section('title')
-			Bootstrap
+			Android Roms
 			@show
 		</title>
 		<meta name="keywords" content="your, awesome, keywords, here" />
