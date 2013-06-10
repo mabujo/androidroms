@@ -11,12 +11,21 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cartalyst/sentry.git",
+<<<<<<< HEAD
                 "reference": "2bdc5252cc736180e5171491d2fc10fb395e65c9"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/cartalyst/sentry/zipball/2bdc5252cc736180e5171491d2fc10fb395e65c9",
                 "reference": "2bdc5252cc736180e5171491d2fc10fb395e65c9",
+=======
+                "reference": "b3d38ea3fa381a47f26d3f4e20012e17e40221ae"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/cartalyst/sentry/zipball/b3d38ea3fa381a47f26d3f4e20012e17e40221ae",
+                "reference": "b3d38ea3fa381a47f26d3f4e20012e17e40221ae",
+>>>>>>> laravel-starter
                 "shasum": ""
             },
             "require": {
@@ -99,7 +108,11 @@
                 "laravel",
                 "security"
             ],
+<<<<<<< HEAD
             "time": "2013-06-04 20:48:44"
+=======
+            "time": "2013-06-07 01:42:51"
+>>>>>>> laravel-starter
         },
         {
             "name": "classpreloader/classpreloader",
@@ -225,12 +238,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/cache.git",
-                "reference": "45123145f70dd79618963a72a5271b4f389712e4"
+                "reference": "89493d2c6e1362f581f9de1c1871cc52eb29c030"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/cache/zipball/45123145f70dd79618963a72a5271b4f389712e4",
-                "reference": "45123145f70dd79618963a72a5271b4f389712e4",
+                "url": "https://api.github.com/repos/doctrine/cache/zipball/89493d2c6e1362f581f9de1c1871cc52eb29c030",
+                "reference": "89493d2c6e1362f581f9de1c1871cc52eb29c030",
                 "shasum": ""
             },
             "require": {
@@ -276,7 +289,7 @@
                 {
                     "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com",
-                    "homepage": "http://jmsyst.com",
+                    "homepage": "https://github.com/schmittjoh",
                     "role": "Developer of wrapped JMSSerializerBundle"
                 }
             ],
@@ -286,7 +299,7 @@
                 "cache",
                 "caching"
             ],
-            "time": "2013-05-13 02:51:07"
+            "time": "2013-06-07 14:54:47"
         },
         {
             "name": "doctrine/collections",
@@ -713,12 +726,21 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
+<<<<<<< HEAD
                 "reference": "7626cef8f73d608bf50e11c7720f5680524ba65f"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/framework/zipball/7626cef8f73d608bf50e11c7720f5680524ba65f",
                 "reference": "7626cef8f73d608bf50e11c7720f5680524ba65f",
+=======
+                "reference": "6b29fc338b97781d88aa5501313d6db8bd2228a7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/6b29fc338b97781d88aa5501313d6db8bd2228a7",
+                "reference": "6b29fc338b97781d88aa5501313d6db8bd2228a7",
+>>>>>>> laravel-starter
                 "shasum": ""
             },
             "require": {
@@ -815,6 +837,7 @@
                 "framework",
                 "laravel"
             ],
+<<<<<<< HEAD
             "time": "2013-06-06 03:56:47"
         },
         {
@@ -870,6 +893,9 @@
                 "testing"
             ],
             "time": "2013-05-29 09:13:17"
+=======
+            "time": "2013-06-10 01:14:21"
+>>>>>>> laravel-starter
         },
         {
             "name": "monolog/monolog",
