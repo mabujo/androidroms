@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "3bf8b74bdac6616f3f6f0e9d30a04a3b",
+    "hash": "ff3a6bae94469f94c4179e63bed8b970",
     "packages": [
         {
             "name": "cartalyst/sentry",
@@ -11,21 +11,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/cartalyst/sentry.git",
-<<<<<<< HEAD
-                "reference": "2bdc5252cc736180e5171491d2fc10fb395e65c9"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/cartalyst/sentry/zipball/2bdc5252cc736180e5171491d2fc10fb395e65c9",
-                "reference": "2bdc5252cc736180e5171491d2fc10fb395e65c9",
-=======
                 "reference": "b3d38ea3fa381a47f26d3f4e20012e17e40221ae"
             },
             "dist": {
                 "type": "zip",
                 "url": "https://api.github.com/repos/cartalyst/sentry/zipball/b3d38ea3fa381a47f26d3f4e20012e17e40221ae",
                 "reference": "b3d38ea3fa381a47f26d3f4e20012e17e40221ae",
->>>>>>> laravel-starter
                 "shasum": ""
             },
             "require": {
@@ -108,11 +99,7 @@
                 "laravel",
                 "security"
             ],
-<<<<<<< HEAD
-            "time": "2013-06-04 20:48:44"
-=======
             "time": "2013-06-07 01:42:51"
->>>>>>> laravel-starter
         },
         {
             "name": "classpreloader/classpreloader",
@@ -374,12 +361,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/common.git",
-                "reference": "2169b0ce1d253d448c60b7d40bbe4e4b5afe22fe"
+                "reference": "2286642f9979a15a799e6fb6919579e8caf6ef11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/common/zipball/2169b0ce1d253d448c60b7d40bbe4e4b5afe22fe",
-                "reference": "2169b0ce1d253d448c60b7d40bbe4e4b5afe22fe",
+                "url": "https://api.github.com/repos/doctrine/common/zipball/2286642f9979a15a799e6fb6919579e8caf6ef11",
+                "reference": "2286642f9979a15a799e6fb6919579e8caf6ef11",
                 "shasum": ""
             },
             "require": {
@@ -407,7 +394,7 @@
             ],
             "authors": [
                 {
-                    "name": "Jonathan Wage",
+                    "name": "Jonathan H. Wage",
                     "email": "jonwage@gmail.com",
                     "homepage": "http://www.jwage.com/"
                 },
@@ -427,7 +414,7 @@
                 {
                     "name": "Johannes Schmitt",
                     "email": "schmittjoh@gmail.com",
-                    "homepage": "http://jmsyst.com",
+                    "homepage": "https://github.com/schmittjoh",
                     "role": "Developer of wrapped JMSSerializerBundle"
                 }
             ],
@@ -440,7 +427,7 @@
                 "persistence",
                 "spl"
             ],
-            "time": "2013-05-27 19:11:46"
+            "time": "2013-06-10 10:34:35"
         },
         {
             "name": "doctrine/dbal",
@@ -726,21 +713,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-<<<<<<< HEAD
-                "reference": "7626cef8f73d608bf50e11c7720f5680524ba65f"
+                "reference": "a18df80b75e31ad96cc62e4ba7d9bf85ed9d8fc7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/7626cef8f73d608bf50e11c7720f5680524ba65f",
-                "reference": "7626cef8f73d608bf50e11c7720f5680524ba65f",
-=======
-                "reference": "6b29fc338b97781d88aa5501313d6db8bd2228a7"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/6b29fc338b97781d88aa5501313d6db8bd2228a7",
-                "reference": "6b29fc338b97781d88aa5501313d6db8bd2228a7",
->>>>>>> laravel-starter
+                "url": "https://api.github.com/repos/laravel/framework/zipball/a18df80b75e31ad96cc62e4ba7d9bf85ed9d8fc7",
+                "reference": "a18df80b75e31ad96cc62e4ba7d9bf85ed9d8fc7",
                 "shasum": ""
             },
             "require": {
@@ -837,8 +815,7 @@
                 "framework",
                 "laravel"
             ],
-<<<<<<< HEAD
-            "time": "2013-06-06 03:56:47"
+            "time": "2013-06-10 03:09:13"
         },
         {
             "name": "mockery/mockery",
@@ -893,9 +870,6 @@
                 "testing"
             ],
             "time": "2013-05-29 09:13:17"
-=======
-            "time": "2013-06-10 01:14:21"
->>>>>>> laravel-starter
         },
         {
             "name": "monolog/monolog",
@@ -1969,12 +1943,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JeffreyWay/Laravel-4-Generators.git",
-                "reference": "be88a2278309b31129fbd69656f326496ed58324"
+                "reference": "b3ab86a881bc8e2b1a8e3be93ad816d333d3e903"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/be88a2278309b31129fbd69656f326496ed58324",
-                "reference": "be88a2278309b31129fbd69656f326496ed58324",
+                "url": "https://api.github.com/repos/JeffreyWay/Laravel-4-Generators/zipball/b3ab86a881bc8e2b1a8e3be93ad816d333d3e903",
+                "reference": "b3ab86a881bc8e2b1a8e3be93ad816d333d3e903",
                 "shasum": ""
             },
             "require": {
@@ -2011,7 +1985,7 @@
                     "role": "Developer"
                 }
             ],
-            "time": "2013-05-15 21:31:45"
+            "time": "2013-06-07 18:20:28"
         },
         {
             "name": "way/laravel-test-helpers",
@@ -2019,12 +1993,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JeffreyWay/Laravel-Test-Helpers.git",
-                "reference": "8bcf7db5312e35b2ded06fb9a9470b1d92dab47e"
+                "reference": "0245cd7f4b97aa811d455199ca1a6fe3c4505d33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JeffreyWay/Laravel-Test-Helpers/zipball/8bcf7db5312e35b2ded06fb9a9470b1d92dab47e",
-                "reference": "8bcf7db5312e35b2ded06fb9a9470b1d92dab47e",
+                "url": "https://api.github.com/repos/JeffreyWay/Laravel-Test-Helpers/zipball/0245cd7f4b97aa811d455199ca1a6fe3c4505d33",
+                "reference": "0245cd7f4b97aa811d455199ca1a6fe3c4505d33",
                 "shasum": ""
             },
             "require": {
@@ -2048,7 +2022,7 @@
                 }
             ],
             "description": "Easier testing in Laravel.",
-            "time": "2013-05-31 19:14:19"
+            "time": "2013-06-09 21:42:41"
         }
     ],
     "packages-dev": [
