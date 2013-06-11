@@ -13,7 +13,7 @@ class CreateDevicesTable extends Migration {
     public function up()
     {
         Schema::create('devices', function(Blueprint $table) {
-            $table->increments('id');
+            $table->increments('id')->unsigned();
             $table->string('name');
             $table->string('manufacturer');
 			$table->enum('type', array('Phone','Tablet'));

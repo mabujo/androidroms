@@ -13,7 +13,8 @@ class CreateRomsTable extends Migration {
     public function up()
     {
         Schema::create('roms', function(Blueprint $table) {
-            $table->increments('id');
+            $table->increments('id')->unsigned();
+            $table->integer('device_id')->unsigned();
             $table->string('name');
 			$table->string('status');
 			$table->float('version');
