@@ -145,3 +145,5 @@ Route::get('/', array('as' => 'home', 'uses' => 'BlogController@getIndex'));
 
 
 Route::resource('roms', 'RomsController');
+
+Route::resource('devices', 'DevicesController');
