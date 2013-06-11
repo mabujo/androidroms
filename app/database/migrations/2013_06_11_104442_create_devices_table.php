@@ -16,7 +16,7 @@ class CreateDevicesTable extends Migration {
             $table->increments('id');
             $table->string('name');
             $table->string('manufacturer');
-			$table->enum('type');
+			$table->enum('type', array('Phone','Tablet'));
 			$table->date('release_date');
             $table->timestamps();
         });
